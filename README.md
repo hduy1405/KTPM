@@ -12,3 +12,6 @@ Dự án nhỏ minh họa cách sử dụng JUnit để kiểm thử các chức
 
 ## Cách chạy kiểm thử
 Sử dụng IDE (IntelliJ/Eclipse) hoặc Maven/Gradle để chạy file `StudentAnalyzerTest.java`.
+
+C3
+![Image1](Image/Image1.png)
