@@ -1,8 +1,3 @@
-<h1>KTPM_BT_BIT230128</h1>
-<h2>B1</h2>
-<img width="1918" height="968" alt="Screenshot 2026-01-08 104836" src="https://github.com/user-attachments/assets/c604202c-0d00-4adc-b981-624b51afd68c" />
-<h2>B2</h2>
-B
 # Student Data Analysis
 
 Dự án nhỏ minh họa cách sử dụng JUnit để kiểm thử các chức năng phân tích điểm số học sinh.
