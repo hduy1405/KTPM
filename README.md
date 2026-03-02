@@ -15,3 +15,10 @@ Sử dụng IDE (IntelliJ/Eclipse) hoặc Maven/Gradle để chạy file `Studen
 
 C3
 ![Image1](Image/Image1.png)
+
+C4
+![tg1](C4-Jmeter\ScreenShots/tg1.png)
+
+![tg2](C4-Jmeter\ScreenShots/tg2.png)
+
+![tg3](C4-Jmeter\ScreenShots/tg3.png)
